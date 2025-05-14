@@ -65,5 +65,5 @@ Includes a valid `submission.csv` for Kaggle.
 ---
 
 Want to see the code? Check out:
-- [`notebooks/`](notebooks/) — fully interactive Jupyter flows
+- [`notebook/`](notebooks/) — fully interactive Jupyter flows
 - [`src/`](src/) — clean reusable modules
